@@ -1,0 +1,44 @@
+uart 
+	Handler structure
+		memory pointer
+		pin handlers
+	configurator structure
+		baud rate
+		stop bits
+		parity bit
+		msg size
+		msg length
+		port name
+		pin numbers
+		
+	initialisation apis
+	transmission apis
+		start and stop
+		timer
+		send api
+			bit send
+			byte send 
+			
+		receive api
+			sampling api
+			bit receive 
+			byte receive
+
+
+
+SPI results report
+		challenges
+			pin output
+			pin high is not holding
+			negative spikes
+		`	exact timing
+		results
+			CPOL=1
+			cpha=1
+				bit send , byte send , half word send
+			CPOl-0 cpha=1
+			cpol=1 cpha=0
+			cpol=0 cpha=0
+
+	
+		

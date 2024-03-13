@@ -1,0 +1,8 @@
+../Drivers_SMW/Src/SPI.c:11:6:delay	16	static
+../Drivers_SMW/Src/SPI.c:39:9:SPI_EN_DI	16	static
+../Drivers_SMW/Src/SPI.c:79:6:SPI_INI_DEINI	16	static
+../Drivers_SMW/Src/SPI.c:166:6:SPI_Start_End	16	static
+../Drivers_SMW/Src/SPI.c:211:6:SPI_Clk_toggle	16	static
+../Drivers_SMW/Src/SPI.c:231:9:SPI_Bit_Send_Rec	32	static
+../Drivers_SMW/Src/SPI.c:287:6:SPI_Byte_Send_Rec	48	static
+../Drivers_SMW/Src/SPI.c:328:6:SPI_MSG_Send_Rec	32	static

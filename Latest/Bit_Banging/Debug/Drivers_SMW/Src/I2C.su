@@ -1,0 +1,15 @@
+../Drivers_SMW/Src/I2C.c:41:9:I2C_En_or_DI	16	static
+../Drivers_SMW/Src/I2C.c:81:6:I2C_INI_DEINI	16	static
+../Drivers_SMW/Src/I2C.c:168:6:I2C_Start_End	16	static
+../Drivers_SMW/Src/I2C.c:228:6:I2C_Send_Bit	16	static
+../Drivers_SMW/Src/I2C.c:267:9:I2C_Rec_Bit	32	static
+../Drivers_SMW/Src/I2C.c:311:6:I2C_Send_Byte	32	static
+../Drivers_SMW/Src/I2C.c:352:6:I2C_address_Write	16	static
+../Drivers_SMW/Src/I2C.c:358:6:I2C_PageADDR_Write	16	static
+../Drivers_SMW/Src/I2C.c:363:6:I2C_MemADDR_Write	16	static
+../Drivers_SMW/Src/I2C.c:383:9:I2C_Ack_check	16	static
+../Drivers_SMW/Src/I2C.c:404:6:I2C_Send_Msg	32	static
+../Drivers_SMW/Src/I2C.c:450:6:I2C_Rec_Msg	32	static
+../Drivers_SMW/Src/I2C.c:488:6:I2C_Rec_Byte	32	static
+../Drivers_SMW/Src/I2C.c:534:6:I2C_Error_handler	8	static
+../Drivers_SMW/Src/I2C.c:552:6:delay_1	24	static

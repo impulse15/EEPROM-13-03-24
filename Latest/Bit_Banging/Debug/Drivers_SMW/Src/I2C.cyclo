@@ -1,0 +1,15 @@
+../Drivers_SMW/Src/I2C.c:41:9:I2C_En_or_DI	4
+../Drivers_SMW/Src/I2C.c:81:6:I2C_INI_DEINI	3
+../Drivers_SMW/Src/I2C.c:168:6:I2C_Start_End	3
+../Drivers_SMW/Src/I2C.c:228:6:I2C_Send_Bit	1
+../Drivers_SMW/Src/I2C.c:267:9:I2C_Rec_Bit	1
+../Drivers_SMW/Src/I2C.c:311:6:I2C_Send_Byte	3
+../Drivers_SMW/Src/I2C.c:352:6:I2C_address_Write	1
+../Drivers_SMW/Src/I2C.c:358:6:I2C_PageADDR_Write	1
+../Drivers_SMW/Src/I2C.c:363:6:I2C_MemADDR_Write	1
+../Drivers_SMW/Src/I2C.c:383:9:I2C_Ack_check	1
+../Drivers_SMW/Src/I2C.c:404:6:I2C_Send_Msg	3
+../Drivers_SMW/Src/I2C.c:450:6:I2C_Rec_Msg	2
+../Drivers_SMW/Src/I2C.c:488:6:I2C_Rec_Byte	3
+../Drivers_SMW/Src/I2C.c:534:6:I2C_Error_handler	1
+../Drivers_SMW/Src/I2C.c:552:6:delay_1	2

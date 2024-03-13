@@ -1,0 +1,7 @@
+../Drivers_SMW/Src/GPIO.c:30:6:GPIO_EN_DI	14
+../Drivers_SMW/Src/GPIO.c:108:6:GPIO_INI	3
+../Drivers_SMW/Src/GPIO.c:161:6:GPIO_PIN_SEND	2
+../Drivers_SMW/Src/GPIO.c:183:9:GPIO_PIN_READ	2
+../Drivers_SMW/Src/GPIO.c:205:6:GPIO_PORT_SEND	1
+../Drivers_SMW/Src/GPIO.c:224:10:GPIO_PORT_READ	1
+../Drivers_SMW/Src/GPIO.c:243:6:GPIO_PIN_Toggle	1
